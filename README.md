@@ -27,22 +27,6 @@
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-<h2> Github Stats </h2>
-
-<div>
-  <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" margin="20" src="https://github-profile-trophy.vercel.app/?username=RezSat&column=7&margin-w=15&margin-h=15&theme=onedark"/>
-  </a>
-  </p>
-</div>
-<br />
-<div align="center">
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=RezSat&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
-
-  </p>
- </div>
  
 ## 📫 reach me
 

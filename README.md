@@ -5,7 +5,7 @@
 </div>
 
 ## 🔭 My Recent Works
-   - Ceylonicus - A Bilingual (Sinhala & English) Programming Language, which can be tested on https://ceylonicus.vercel.app/
+   - Ceylonicus - A Sinhala Programming Language ( support sinhala and english syntax in single code base), which can be tested on https://ceylonicus.vercel.app/
 
 ## Working On
    - Mathematishia - A Pythononic Computer Algebra System, which computes step-by-step solutions to math problems.

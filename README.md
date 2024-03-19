@@ -9,8 +9,8 @@
    - Ceylonicus - A Sinhala Programming Language ( support sinhala and english syntax in single code base), which can be tested on https://ceylonicus.vercel.app/
 
 ## Working On
-   - Mathema - A Symbolic Programming Language inspired by Wolfram Language.
-   - Mathematishia - An Computer Algebra System, which can compute step-by-step solutions to certain math problems. [ comes with Mathema ]
+  <!-- - Mathema - A Symbolic Programming Language inspired by Wolfram Language.-->
+   - Mathematishia - An Computer Algebra System, which can compute step-by-step solutions to certain math problems.<!-- [ comes with Mathema ] -->
 
 <h1>My current skills</h1>
 <h2> Languages </h2>

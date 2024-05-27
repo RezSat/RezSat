@@ -1,7 +1,8 @@
 Hello there!
 
 In Computer Science I am particularly interested in
- - Programming Language Design and Compiler/Interpreter Design
+ - Programming Language Design
+ - Compiler and Interpreter Design
  - Reverse Engineering and Binary Exploitation
  - Operating Systems and Low-level Hardware Interaction
  - Neural Networks and Machine Learning

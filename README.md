@@ -4,8 +4,8 @@ In Computer Science I am particularly interested in
  - Programming Language Design and Compiler/Interpreter Design
  - Reverse Engineering and Binary Exploitation
  - Operating Systems and Low-level Hardware Interaction
- - Optimizations ( like for relating to compiler )
  - Neural Networks and Machine Learning
+ - Optimizations ( like for relating to compilers, machine learning etc. )
  - Related Mathematics and Physics
 
 Languages I use frequently: C/C++, Python, JavaScript

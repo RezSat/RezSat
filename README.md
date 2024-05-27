@@ -1,4 +1,4 @@
-Trying to do something, I guess...
+Hello there!
 
 In Computer Science I am particularly interested in
  - Programming Language Design and Compiler/Interpreter Design

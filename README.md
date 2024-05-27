@@ -1,4 +1,13 @@
 Trying to do something, I guess...
+
+In Computer Science I mostly focus on:
+ - Programming Language Design and Compiler/Interpreter Design
+ - Reverse Engineering and Binary Exploitation
+ - Operating Systems and Low-level Hardware Interaction
+ - Optimizations ( like for Compilers )
+ - Neural Networks and Machine Learning
+ - Related Mathematics and Physics
+
 <!--
 <div>
   <p align="center">

@@ -10,6 +10,7 @@ In Computer Science I am particularly interested in
  - Related Mathematics and Physics
 
 Languages I use frequently: C/C++, Python, JavaScript, TypeScript
+
 Libraries & Frameworks I use frequently: Flask, Nextjs/React
 <!--
 <div>

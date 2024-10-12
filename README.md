@@ -11,7 +11,7 @@ In Computer Science I am particularly interested in
 
 Languages I use frequently: C/C++, Python, JavaScript, TypeScript
 
-Libraries & Frameworks I use frequently: Flask, Nextjs/React
+Libraries & Frameworks I use frequently: Flask, Nextjs/React, Sympy
 <!--
 <div>
   <p align="center">

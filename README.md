@@ -9,7 +9,7 @@ In Computer Science I am particularly interested in
  - Optimizations ( like for relating to compilers, machine learning etc. )
  - Related Mathematics and Physics
 
-Languages I use frequently: C/C++, Python, JavaScript, TypeScript
+Languages I use frequently: C/C++, Python, JavaScript/TypeScript
 
 Libraries & Frameworks I use frequently: Flask, Nextjs/React, Sympy
 <!--

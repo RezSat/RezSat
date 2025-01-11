@@ -9,6 +9,12 @@ In Computer Science I am particularly interested in
  - Optimizations ( like for relating to compilers, machine learning etc. )
  - Related Mathematics and Physics
 
+I mostly do:
+ - Full=Stack Web Development
+ - GUI/CLI Application Development - Windows, Linux
+ - Libraries/Modules Developement for Python
+ - Reverse Engineering APIs and Mobile Applications
+   
 Languages I use frequently: C/C++, Python, JavaScript/TypeScript
 
 Learning Rust.

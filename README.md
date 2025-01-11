@@ -10,10 +10,10 @@ In Computer Science I am particularly interested in
  - Related Mathematics and Physics
 
 I mostly do:
- - Full=Stack Web Development
+ - Full-Stack Web Development
  - GUI/CLI Application Development - Windows, Linux
  - Libraries/Modules Developement for Python
- - Reverse Engineering APIs and Mobile Applications
+ - Reverse Engineering APIs/Mobile Applications
    
 Languages I use frequently: C/C++, Python, JavaScript/TypeScript
 

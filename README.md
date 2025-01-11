@@ -13,7 +13,7 @@ I mostly do:
  - Full-Stack Web Development
  - GUI/CLI Application Development - Windows, Linux
  - Libraries/Modules Developement for Python
- - Reverse Engineering APIs/Mobile Applications
+ - Reverse Engineering APIs (Mobile/Web Applications)
    
 Languages I use frequently: C/C++, Python, JavaScript/TypeScript
 

@@ -1,4 +1,4 @@
-Hello there!
+Hello there!, Yes I'm self learned and fuck you if you want be such jerk about it. [ ignore if you don't :) ]
 
 In Computer Science I am particularly interested in
  - Programming Language Design

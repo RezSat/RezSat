@@ -19,7 +19,7 @@ Languages I use frequently: C/C++, Python, JavaScript/TypeScript
 
 Learning Rust.
 
-Libraries & Frameworks I use frequently: Flask, Nextjs/React, Sympy
+Libraries & Frameworks I use frequently: Flask, Nextjs/React, Sympy, Numpy
 <!--
 <div>
   <p align="center">

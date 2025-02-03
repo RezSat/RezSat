@@ -1,4 +1,4 @@
-Hello there! Yes, I'm self-taught, and fuck you if you want to be such a jerk about it. [Ignore if you don't :) ]
+Hello there! Yes, I'm self-taught, and fuck you if you want to be such a jerk about it. Ignore this if you don't give a shit, much love to you then :)
 
 In Computer Science I am particularly interested in
  - Programming Language Design
@@ -19,7 +19,7 @@ Languages I use frequently: C/C++, Python, JavaScript/TypeScript
 
 Learning Rust.
 
-Libraries & Frameworks I use frequently: Flask, Nextjs/React, Sympy, Numpy
+Libraries & Frameworks I use frequently: Tk, Flask, Nextjs/React, TailwindCSS, Sympy, Numpy
 <!--
 <div>
   <p align="center">

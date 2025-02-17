@@ -20,6 +20,10 @@ Languages I use frequently: C/C++, Python, JavaScript/TypeScript
 Learning Rust.
 
 Libraries & Frameworks I use frequently: Tk, Flask, Nextjs/React, TailwindCSS, Sympy, Numpy
+
+
+---
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/RezSat.svg)](https://user-badge.committers.top/sri_lanka/RezSat)
 <!--
 <div>
   <p align="center">

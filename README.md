@@ -23,7 +23,7 @@ Libraries & Frameworks I use frequently: Tk, Flask, Nextjs/React, TailwindCSS, S
 
 
 ---
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/RezSat.svg)](https://user-badge.committers.top/sri_lanka/RezSat)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/RezSat.svg)](https://user-badge.committers.top/sri_lanka/RezSati)
 <!--
 <div>
   <p align="center">

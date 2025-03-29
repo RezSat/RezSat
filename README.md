@@ -24,14 +24,7 @@ Libraries & Frameworks I use frequently: Tk, Flask, Nextjs/React, TailwindCSS, S
 
 ---
 
-Commits:
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/RezSat)
-
-Contributions:
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/USERNAME.svg)](https://user-badge.committers.top/sri_lanka_public/RezSat)
-
-All:
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/USERNAME.svg)](https://user-badge.committers.top/sri_lanka_private/RezSat)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/RezSat.svg)](https://user-badge.committers.top/sri_lanka/RezSat)
 <!--
 <div>
   <p align="center">

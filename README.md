@@ -1,5 +1,3 @@
-Hello there! Yes, I'm self-taught (don't be jerk about it, please!)
-
 In Computer Science I am particularly interested in
  - Programming Language Design
  - Compiler and Interpreter Development

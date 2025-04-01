@@ -1,9 +1,14 @@
 Hello there! Yes, I'm self-taught (don't be jerk about it, please!)
 
 
-Commits: [![committers.top badge](https://user-badge.committers.top/sri_lanka/RezSat.svg)](https://user-badge.committers.top/sri_lanka/RezSat)
-Contributions: [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/RezSat.svg)](https://user-badge.committers.top/sri_lanka_public/RezSat)
-All: [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/RezSat.svg)](https://user-badge.committers.top/sri_lanka_private/RezSat)
+Commits:
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/RezSat.svg)](https://user-badge.committers.top/sri_lanka/RezSat)
+
+Contributions:
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/RezSat.svg)](https://user-badge.committers.top/sri_lanka_public/RezSat)
+
+All:
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/RezSat.svg)](https://user-badge.committers.top/sri_lanka_private/RezSat)
 
 In Computer Science I am particularly interested in
  - Programming Language Design

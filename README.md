@@ -1,6 +1,6 @@
 Following a B.Sc (Hons) in Data Science.
 
-In Computer Science I am particularly interested in (they changes time to time)
+In Computer Science I am particularly interested in
  - Programming Language Design
  - Compiler and Interpreter Development
  - Reverse Engineering and Binary Exploitation

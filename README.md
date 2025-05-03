@@ -1,5 +1,5 @@
 Following a B.Sc (Hons) in Data Science.
-
+---
 In Computer Science I am particularly interested in
  - Programming Language Design
  - Compiler and Interpreter Development
@@ -22,7 +22,7 @@ Learning Rust.
 Libraries & Frameworks I use frequently: Tk, Flask, Nextjs/React, TailwindCSS, Sympy, Numpy
 
 
----
+
 <!--
 Commits:
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/RezSat.svg)](https://user-badge.committers.top/sri_lanka/RezSat)

@@ -12,7 +12,7 @@ In Computer Science I am particularly interested in
 I mostly do:
  - Full-Stack Web Development
  - GUI/CLI Application Development - Windows, Linux
- - Libraries/Modules Developement for Python
+ - Python Libraries/Modules Developement
  - Reverse Engineering APIs (Mobile/Web Applications)
    
 Languages I use frequently: C/C++, Python, JavaScript/TypeScript

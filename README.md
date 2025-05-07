@@ -15,7 +15,7 @@ I mostly do:
  - Python Libraries/Modules Developement
  - Reverse Engineering APIs (Mobile/Web Applications)
    
-Languages I use frequently: C/C++, Python, JavaScript/TypeScript
+Languages I use frequently: C/C++, Python, JavaScript/TypeScript, HTML, CSS
 
 Learning Rust.
 
